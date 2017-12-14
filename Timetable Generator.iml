@@ -12,8 +12,7 @@
         <CLASSES>
           <root url="jar://$USER_HOME$/Downloads/jfoenix.jar!/" />
         </CLASSES>
-        <JAVADOC />
-        <SOURCES />
+        
       </library>
     </orderEntry>
     <orderEntry type="module-library" exported="">
@@ -21,14 +20,12 @@
         <CLASSES>
           <root url="jar://$USER_HOME$/Downloads/javafx-0.2.jar!/" />
         </CLASSES>
-        <JAVADOC />
-        <SOURCES />
+        
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
-        <CLASSES />
-        <JAVADOC />
+        
         <SOURCES>
           <root url="jar://$USER_HOME$/Downloads/javafx-0.2.jar!/" />
         </SOURCES>
@@ -39,8 +36,7 @@
         <CLASSES>
           <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar!/" />
         </CLASSES>
-        <JAVADOC />
-        <SOURCES />
+
       </library>
     </orderEntry>
     <orderEntry type="module-library" exported="">
@@ -48,8 +44,7 @@
         <CLASSES>
           <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.44-bin.jar!/" />
         </CLASSES>
-        <JAVADOC />
-        <SOURCES />
+       
       </library>
     </orderEntry>
   </component>
