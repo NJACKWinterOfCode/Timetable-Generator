@@ -6,9 +6,6 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by dell on 11/11/2017.
- */
 public class CourseDAO {
     public static void insertCourse(Course course)
     {

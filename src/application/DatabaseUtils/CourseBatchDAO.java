@@ -7,9 +7,6 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by the_Shashwat on 11/11/2017.
- */
 public class CourseBatchDAO {
     /*
     * DAO for teacher course relation

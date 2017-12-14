@@ -13,9 +13,6 @@ import javafx.scene.layout.AnchorPane;
 
 import java.io.IOException;
 
-/**
- * Created by dell on 11/11/2017.
- */
 public class CourseFormViewController {
     @FXML
     private Label CourseInputFormLabel;

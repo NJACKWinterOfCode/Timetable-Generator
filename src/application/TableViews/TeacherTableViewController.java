@@ -16,9 +16,6 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
 
-/**
- * Created by dell on 11/11/2017.
- */
 public class TeacherTableViewController implements Initializable {
     @FXML
     private TableColumn<Teacher, String> TeacherNameColumn;
