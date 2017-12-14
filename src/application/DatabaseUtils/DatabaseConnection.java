@@ -4,9 +4,6 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
- * Created by dell on 11/11/2017.
- */
 public class DatabaseConnection {
     public static Connection conn = null;
     public static void openConnection()
